@@ -105,8 +105,10 @@ header {
 
 .titleslide {
 	clear: right; 
-	padding: 0px 10px 0 10px;
+	text-align: center;
+	padding: 0px 0px 0 0px;
 	}
+
 .supporting {	
 	padding-left: 10px; 
 	margin-bottom: 40px;
