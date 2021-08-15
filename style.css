@@ -31,6 +31,14 @@ h3 {
 	margin-bottom: 0; 
 	color: #3a2f01;
 	}
+
+h4 { 
+	font: italic normal 1.2em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: #1a0f00;
+	}
+
 a:link { 
 	font-weight: bold; 
 	text-decoration: none; 
